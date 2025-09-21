@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #303330;
+  font-family: sans-serif;
+}
+
+div.area {
+  position: relative;
+  border: 1px solid blue;
+  background-color: white;
+}
